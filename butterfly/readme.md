@@ -1,1 +1,1 @@
-## Here is butterfly-typecho static file
+## Here is typecho-butterfly static file
